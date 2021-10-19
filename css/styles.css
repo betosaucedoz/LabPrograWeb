@@ -1,0 +1,12 @@
+header {
+    background-color: bisque;
+    margin-top: -1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.Enlaces {
+    padding: 2rem;
+}
+.Enlaces a {
+    
+}
