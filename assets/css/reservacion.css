@@ -1,0 +1,97 @@
+#divreser{
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 550px;
+    width: 800px;
+    background-color: aliceblue;
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+
+}
+#divinfo{
+    margin-top: -650px;
+    margin-left: 1000px;
+    margin-bottom: 100px;
+    height: 550px;
+    width: 450px;
+    background-color: aliceblue;
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+}
+#text{
+    font-family: Raleway;
+    font-size: 25px;
+    font-weight: 600;
+}
+#text2{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+#titulo{
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 15px;
+}
+#titulo2{
+    margin-top: 10px;
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 15px;
+}
+#telefono{
+    margin-left: 480px;
+    margin-top: -103px;
+
+}
+#espacio{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#nombre{
+    margin-left: 60px;
+}
+#fecha{
+    margin-top: 15px;
+    margin-left: 60px;
+}
+#hora{
+    margin-left: 350px;
+    margin-top: -103px;
+}
+#personas{
+    margin-top: -97px;
+    margin-left: 600px;
+}
+#marselec{
+    width: 170px;
+}
+span{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#botones{
+    margin-top: 50px;
+    margin-left: 200px;
+    border-bottom-color: #b7be00;
+}
+#div3{
+    height: 100px;
+    width: 1350px;
+    margin-top: -50px;
+    margin-left: 100px;
+    background-color: aliceblue;
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    font-family: Raleway;
+    font-size: 18px;
+}
